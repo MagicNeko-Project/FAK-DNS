@@ -32309,6 +32309,7 @@
 [/dubairen.com/]100.100.100.100
 [/dubao123.com/]100.100.100.100
 [/dubbing.tech/]100.100.100.100
+[/dubbingx.com/]100.100.100.100
 [/dubbo.io/]100.100.100.100
 [/duble.live/]100.100.100.100
 [/dubola.com/]100.100.100.100
@@ -68903,6 +68904,7 @@
 [/miaocode.com/]100.100.100.100
 [/miaodiyun.com/]100.100.100.100
 [/miaodongbar.com/]100.100.100.100
+[/miaodongshenghuo.com/]100.100.100.100
 [/miaogongzi.cc/]100.100.100.100
 [/miaogongzi.net/]100.100.100.100
 [/miaohuiyanyi.com/]100.100.100.100
@@ -79934,6 +79936,7 @@
 [/quaspa.com/]100.100.100.100
 [/quazero.com/]100.100.100.100
 [/quba360.com/]100.100.100.100
+[/qubang.cc/]100.100.100.100
 [/qubaobei.com/]100.100.100.100
 [/qubiankeji.com/]100.100.100.100
 [/qucai.com/]100.100.100.100
@@ -95338,6 +95341,7 @@
 [/tsg-online.net/]100.100.100.100
 [/tsggx.com/]100.100.100.100
 [/tsgks.com/]100.100.100.100
+[/tsgyun.com/]100.100.100.100
 [/tshaisen.com/]100.100.100.100
 [/tshe.com/]100.100.100.100
 [/tshe.me/]100.100.100.100
@@ -110427,6 +110431,7 @@
 [/yooek.com/]100.100.100.100
 [/yoofh.com/]100.100.100.100
 [/yoogene.com/]100.100.100.100
+[/yoohe.net/]100.100.100.100
 [/yoohouse.com/]100.100.100.100
 [/yoojia.com/]100.100.100.100
 [/yoojing.com/]100.100.100.100
