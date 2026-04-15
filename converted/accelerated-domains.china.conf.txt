@@ -11762,6 +11762,7 @@
 [/ailvxing.com/]100.100.100.100
 [/aim-ec.com/]100.100.100.100
 [/aimaker.space/]100.100.100.100
+[/aimap.com/]100.100.100.100
 [/aimatech.com/]100.100.100.100
 [/aimatrix.ai/]100.100.100.100
 [/aimcx.com/]100.100.100.100
@@ -17422,6 +17423,7 @@
 [/bjfqy.com/]100.100.100.100
 [/bjfriendshiphotel.com/]100.100.100.100
 [/bjfsali.com/]100.100.100.100
+[/bjftfy.com/]100.100.100.100
 [/bjfzst.com/]100.100.100.100
 [/bjgas.com/]100.100.100.100
 [/bjgasgh.com/]100.100.100.100
@@ -21321,6 +21323,7 @@
 [/cetgps.com/]100.100.100.100
 [/cethik.com/]100.100.100.100
 [/cetkmh.com/]100.100.100.100
+[/cetsteam.com/]100.100.100.100
 [/cetzig.com/]100.100.100.100
 [/ceultimate.com/]100.100.100.100
 [/ceve-market.org/]100.100.100.100
@@ -34994,6 +34997,7 @@
 [/evpartner.com/]100.100.100.100
 [/evpowergroup.com/]100.100.100.100
 [/evtcn.com/]100.100.100.100
+[/evtrust.com/]100.100.100.100
 [/evyy.net/]100.100.100.100
 [/evzhidao.com/]100.100.100.100
 [/evznl.org/]100.100.100.100
@@ -36946,6 +36950,7 @@
 [/fk100.com/]100.100.100.100
 [/fkask.net/]100.100.100.100
 [/fkblog.org/]100.100.100.100
+[/fkbuff.com/]100.100.100.100
 [/fkcaijing.com/]100.100.100.100
 [/fkdex.com/]100.100.100.100
 [/fkdmg.com/]100.100.100.100
@@ -48033,6 +48038,7 @@
 [/hivictor.net/]100.100.100.100
 [/hiwafer.com/]100.100.100.100
 [/hiwaysemi.com/]100.100.100.100
+[/hiwayslaw.com/]100.100.100.100
 [/hiwbb.com/]100.100.100.100
 [/hiwechats.com/]100.100.100.100
 [/hiweixiu.com/]100.100.100.100
@@ -59754,6 +59760,7 @@
 [/jxxdxy.com/]100.100.100.100
 [/jxxhdn.com/]100.100.100.100
 [/jxxhsd.com/]100.100.100.100
+[/jxxinzhe.com/]100.100.100.100
 [/jxxnyqc.com/]100.100.100.100
 [/jxxs.net/]100.100.100.100
 [/jxycqy.com/]100.100.100.100
@@ -92846,6 +92853,7 @@
 [/tencentcloudclub.com/]100.100.100.100
 [/tencentcloudcore.com/]100.100.100.100
 [/tencentcloudcr.com/]100.100.100.100
+[/tencentcloudcs.com/]100.100.100.100
 [/tencentcloudga.com/]100.100.100.100
 [/tencentcloudga001.com/]100.100.100.100
 [/tencentcloudga001.net/]100.100.100.100
