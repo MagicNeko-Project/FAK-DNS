@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]100.100.100.100
 [/cl1.apple.com/]100.100.100.100
 [/cl2-cn.apple.com/]100.100.100.100
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]100.100.100.100
 [/cl2.apple.com/]100.100.100.100
 [/cl3-cdn.origin-apple.com.akadns.net/]100.100.100.100
 [/cl3.apple.com/]100.100.100.100
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]100.100.100.100
 [/gs-loc.apple.com/]100.100.100.100
 [/gsp10-ssl-cn.ls.apple.com/]100.100.100.100
+[/gsp11-cn.ls.apple.com/]100.100.100.100
 [/gsp12-cn.ls.apple.com/]100.100.100.100
 [/gsp13-cn.ls.apple.com/]100.100.100.100
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]100.100.100.100
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]100.100.100.100
 [/guzzoni.smoot.apple.com/]100.100.100.100
 [/iadsdk.apple.com/]100.100.100.100
-[/icloud-cdn.icloud.com.akadns.net/]100.100.100.100
-[/icloud.cdn-apple.com/]100.100.100.100
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]100.100.100.100
 [/init-kt.apple.com/]100.100.100.100
 [/init-p01md-lb.push-apple.com.akadns.net/]100.100.100.100
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]100.100.100.100
 [/ml.cdn-apple.com/]100.100.100.100
 [/music.apple.com/]100.100.100.100
-[/ocsp-lb.apple.com.akadns.net/]100.100.100.100
 [/ocsp.apple.com/]100.100.100.100
-[/ocsp2-lb.apple.com.akadns.net/]100.100.100.100
 [/ocsp2.apple.com/]100.100.100.100
 [/oscdn.apple.com/]100.100.100.100
 [/oscdn.origin-apple.com.akadns.net/]100.100.100.100
 [/osxapps.itunes.g.aaplimg.com/]100.100.100.100
 [/pancake.apple.com/]100.100.100.100
-[/pancake.cdn-apple.com.akadns.net/]100.100.100.100
 [/pba0.apple.com/]100.100.100.100
 [/probe.siri.apple.com/]100.100.100.100
 [/prod-support.apple-support.akadns.net/]100.100.100.100
 [/publicassets.cdn-apple.com/]100.100.100.100
-[/reserve-prime.apple.com/]100.100.100.100
 [/s.mzstatic.com/]100.100.100.100
 [/seed-sequoia.siri.apple.com/]100.100.100.100
 [/seed-swallow.siri.apple.com/]100.100.100.100
