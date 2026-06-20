@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]100.100.100.100
 [/itunes.apple.com/]100.100.100.100
 [/itunesconnect.apple.com/]100.100.100.100
+[/mensura.cdn-apple.com/]100.100.100.100
 [/mesu-cdn.apple.com.akadns.net/]100.100.100.100
 [/mesu-china.apple.com.akadns.net/]100.100.100.100
 [/mesu.apple.com/]100.100.100.100

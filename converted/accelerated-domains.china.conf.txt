@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]100.100.100.100
 [/azure-wave.com/]100.100.100.100
 [/azure.cc/]100.100.100.100
+[/azureflame.cloud/]100.100.100.100
 [/azureflying.com/]100.100.100.100
 [/azuremigrate.download.prss.microsoft.com/]100.100.100.100
 [/azuremigratetest.download.prss.microsoft.com/]100.100.100.100
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]100.100.100.100
 [/bjatv.com/]100.100.100.100
 [/bjbaidianfeng.com/]100.100.100.100
+[/bjbaifan.com/]100.100.100.100
 [/bjbalb.com/]100.100.100.100
 [/bjbaodao.net/]100.100.100.100
 [/bjbb.com/]100.100.100.100
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]100.100.100.100
 [/canghaiip.com/]100.100.100.100
 [/canghaimachine.com/]100.100.100.100
+[/cangjggame.com/]100.100.100.100
 [/canglanghospital.com/]100.100.100.100
 [/cangmang.xyz/]100.100.100.100
 [/cangoonline.com/]100.100.100.100
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]100.100.100.100
 [/chacihai.com/]100.100.100.100
 [/chacuo.net/]100.100.100.100
+[/chadaodao.com/]100.100.100.100
 [/chadianhua.net/]100.100.100.100
 [/chadoc.com/]100.100.100.100
 [/chaej.com/]100.100.100.100
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]100.100.100.100
 [/feifandesign.com/]100.100.100.100
 [/feifanindustry.com/]100.100.100.100
+[/feifanmi.com/]100.100.100.100
 [/feifantxt.com/]100.100.100.100
 [/feifantxt.net/]100.100.100.100
 [/feifdx.com/]100.100.100.100
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]100.100.100.100
 [/qingniantuzhai.com/]100.100.100.100
 [/qingnianwang.com/]100.100.100.100
+[/qingning88.com/]100.100.100.100
 [/qingpanduola.com/]100.100.100.100
 [/qingpin.vip/]100.100.100.100
 [/qingping.co/]100.100.100.100
@@ -92117,6 +92123,7 @@
 [/uniow.com/]100.100.100.100
 [/unipack-tech.com/]100.100.100.100
 [/uniproud.com/]100.100.100.100
+[/unisapps.com/]100.100.100.100
 [/uniscope.com/]100.100.100.100
 [/unisdigital.com/]100.100.100.100
 [/unisedu.com/]100.100.100.100
