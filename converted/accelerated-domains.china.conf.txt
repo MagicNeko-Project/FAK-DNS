@@ -13900,6 +13900,7 @@
 [/b-k-automation.com/]100.100.100.100
 [/b-raymedia.com/]100.100.100.100
 [/b.biz/]100.100.100.100
+[/b.c2r.ts.cdn.office.net/]100.100.100.100
 [/b01.net/]100.100.100.100
 [/b02f0d7f3745ba7c.com/]100.100.100.100
 [/b041e427810281.beer/]100.100.100.100
@@ -33657,6 +33658,7 @@
 [/f-insight.com/]100.100.100.100
 [/f-stack.org/]100.100.100.100
 [/f.biz/]100.100.100.100
+[/f.c2r.ts.cdn.office.net/]100.100.100.100
 [/f.cx/]100.100.100.100
 [/f008.com/]100.100.100.100
 [/f015dfc4510292.beer/]100.100.100.100
@@ -81098,6 +81100,7 @@
 [/sheketiandi.com/]100.100.100.100
 [/shekou.com/]100.100.100.100
 [/shelive.net/]100.100.100.100
+[/shell.cdn.office.net/]100.100.100.100
 [/shellpub.com/]100.100.100.100
 [/shellsec.com/]100.100.100.100
 [/shelter-china.com/]100.100.100.100
@@ -84918,6 +84921,7 @@
 [/staticfile.org/]100.100.100.100
 [/statickksmg.com/]100.100.100.100
 [/statics.cc/]100.100.100.100
+[/statics.teams.cdn.office.net/]100.100.100.100
 [/staticsdd.com/]100.100.100.100
 [/staticsoe.com/]100.100.100.100
 [/staticsoem.com/]100.100.100.100
@@ -85631,6 +85635,7 @@
 [/surely.cool/]100.100.100.100
 [/surerp.com/]100.100.100.100
 [/surface.download.prss.microsoft.com/]100.100.100.100
+[/surface.downloads.prss.microsoft.com/]100.100.100.100
 [/surfacetreatmentgroup.com/]100.100.100.100
 [/surfacetreatmenttechnology.com/]100.100.100.100
 [/surfcg.com/]100.100.100.100
