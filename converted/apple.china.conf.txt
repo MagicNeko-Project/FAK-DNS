@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]100.100.100.100
 [/gsp5-cn.ls.apple.com/]100.100.100.100
 [/gsp85-cn-ssl.ls.apple.com/]100.100.100.100
+[/gspe11-2-cn-ssl.ls.apple.com/]100.100.100.100
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]100.100.100.100
 [/gspe19-2-cn-ssl.ls.apple.com/]100.100.100.100
 [/gspe19-cn-ssl.ls.apple.com/]100.100.100.100
